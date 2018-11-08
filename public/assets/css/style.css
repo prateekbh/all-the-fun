@@ -2989,13 +2989,13 @@ ul.pagination {
 	right: 30px;
 	border-radius: 50%;
 	z-index: 9999;
-	opacity: 0;
+	opacity: 1;
 }
 .totop.show {
 	opacity: 1;
 }
 .totop > a {
-	background-color: #ff2d55;
+	background-color: #ff8000;
 	color: #fff;
 	display: block;
 	font-size: 16px;
@@ -3008,7 +3008,7 @@ ul.pagination {
 	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
 }
 .totop > a:hover {
-	background-color: #0d80f6;
+	background-color: #008000;
 }
 
 /*==================================================
